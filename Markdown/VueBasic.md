@@ -35,3 +35,4 @@
 
 Backend 로직과 Client의 마크업 & 데이터 표현단을 분리하기 위한 구조로 전통적인 MVC 패턴의 방식에서 기안
 
+![mvvm](https://github.com/banziha104/Vue.js/blob/master/Markdown/img/mvvm.png)
